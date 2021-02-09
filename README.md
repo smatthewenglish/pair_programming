@@ -67,3 +67,9 @@ The above tools/techniques were refined with help from the Ethereum developer co
 * [How to install geth disasm and other dev tools](https://ethereum.stackexchange.com/questions/26638/how-to-install-geth-disasm-and-other-dev-tools)
 * [does the command `evm --debug --code OPCODES` still work?](https://ethereum.stackexchange.com/questions/26600/does-the-command-evm-debug-code-opcodes-still-work)
 
+
+## Truffle
+
+Deploy like so: 
+
+`truffle deploy --network rinkeby --reset`
